@@ -104,7 +104,7 @@ npmtest-eslint-loader@0.0.1 /home/travis/build/npmtest/node-npmtest-eslint-loade
   │ │ └── callsites@0.2.0 
   │ └── resolve-from@1.0.1 
   ├─┬ shelljs@0.7.7 
-  │ ├── interpret@1.0.2 
+  │ ├── interpret@1.0.3 
   │ └─┬ rechoir@0.6.2 
   │   └─┬ resolve@1.3.2 
   │     └── path-parse@1.0.5 
