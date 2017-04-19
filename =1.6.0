@@ -1,4 +1,4 @@
-npmtest-eslint-loader@0.0.1 /home/travis/build/npmtest/node-npmtest-eslint-loader
+npmtest-eslint-loader@0.0.2 /home/travis/build/npmtest/node-npmtest-eslint-loader
 └─┬ eslint@3.19.0 
   ├─┬ babel-code-frame@6.22.0 
   │ └── js-tokens@3.0.1 
